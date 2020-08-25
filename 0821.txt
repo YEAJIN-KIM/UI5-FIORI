@@ -1,0 +1,35 @@
+PANEL
+소제목으로 분류되는 단락 CONTAINER
+
+EXPANDABLE
+PANEL을 접을 수 있는지 여부를 나타냄 (= FOLDABLE )
+
+EXPANDED 
+PANEL을 펼친 채로 보여줄 것인지 여부 선택
+DEFAULT : FALSE
+
+HEADER 내 SUB HEADER로서 사용할 수 있음 ( BAR )
+
+===============================================
+
+ 3
+이처럼 veiw - control id 로 구성되어 view 내에서 동일한 id를 부여하더라도 event 에서
+지정한 press navigate to 로  이동 
+
+=======================
+get > ?
+https://services.odata.org/v3/odata/odata.svc/Products
+
+?$orderby=IDdesc
+
+====================
+현재 control에 mapping 하는 방법 
+this. get view( );
+
+combo box 에 aggregation
+oCombo.bindAggregation( );
+=================================
+/V2/Northwind/Northwind.svc/
+
+=========================
+http://doidesap.dfocus.net:8010/sap/opu/odata/SAP/ZMM_PUR_40_SRV/
