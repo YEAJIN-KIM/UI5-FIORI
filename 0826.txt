@@ -1,0 +1,17 @@
+rem ( root em ) = 16px 
+코지 컨텐트 밀도  : 터치 영역에서의 밀도
+컴팩트 컨텐트 밀도 : 컨트롤 크기영역에서의 밀도 
+
+sap icons
+https://sapui5.hana.ondemand.com/sdk/test-resources/sap/m/demokit/iconExplorer/webapp/index.html#/overview/SAP-icons
+
+deploy
+*application id에 특수문자는 지양한다 
+
+
+ROLES
+SCP 자체적으로 관리 하기 때문에 참조 될 수 있다
+APP CATALOGS ROLES는 LAUNCH PAD 별로 관리된다
+
+
+
