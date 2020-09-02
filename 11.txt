@@ -1,0 +1,24 @@
+SE37
+ZSCP05
+ZMM_EMP_02_05_CREATE_02
+ZMM_EMP_02_05_GET_02
+ZMM_EMP_02_05_UPDATE_02
+ZMM_EMP_02_05_DELETE_02
+
+
+ZCL_ZMM_EMP_02_05_MPC_EXT
+
+GW_HUB
+ZMM_EMP_02_05_SRV
+
+====================================
+mapping 더블클릭 시 parameter
+외부에서 odata 실행해 주고받는 entry의 property
+odata 실행하면 mapping한 function module 수행 
+
+query = select all
+read = select ( 1건 )
+
+http://211.56.251.246:8010/sap/opu/odata/SAP/ZMM_EMP_02_05_SRV/
+
+										<Text text="{Empdes}" id="text4"/>
