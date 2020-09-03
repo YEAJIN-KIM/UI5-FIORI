@@ -1,0 +1,14 @@
+cp10005
+*yeajin*0913
+https://cp10005p2002330645trial.hanatrial.ondemand.com/mypackage/services.xsodata/$metadata
+https://cp10005p2002330645trial.hanatrial.ondemand.com/mypackage/services.xsodata
+
+SDI_User
+*Yeajin*09*Yeajin*09
+
+SDI_Agent
+*Yeajin*09*Yeajin*09
+
+
+DOMAIN
+YEAJIN\
